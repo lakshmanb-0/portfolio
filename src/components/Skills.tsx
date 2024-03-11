@@ -40,7 +40,7 @@ const Skills = () => {
         },
         {
             title: 'Framer Motion',
-            icon: '/FramerMotion.png'
+            icon: '/framerMotion.png'
         },
         {
             title: 'Gsap',
